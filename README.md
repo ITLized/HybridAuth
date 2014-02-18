@@ -1,4 +1,4 @@
-# HybridAuth 2.1.1-dev
+# HybridAuth 2.1.1
 
 HybridAuth enables developers to easily build social applications and tools 
 to engage websites visitors and customers on a social level by implementing 
@@ -25,3 +25,6 @@ at [http://hybridauth.sourceforge.net/download.html](http://hybridauth.sourcefor
 
 You can find  complete documentation for HybridAuth
 at [http://hybridauth.sourceforge.net](http://hybridauth.sourceforge.net)
+
+## Links
+http://www.itlized.com
